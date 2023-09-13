@@ -13,7 +13,6 @@ const errorHandlerMiddleware = (
     status: status || StatusCodes.INTERNAL_SERVER_ERROR,
     message: message || 'Internal Server Error'
   });
-  next();
 };
 
 export default errorHandlerMiddleware;

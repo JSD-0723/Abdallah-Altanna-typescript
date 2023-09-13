@@ -2,6 +2,7 @@ import express from 'express';
 import { errorHandler, notFound } from './middlewares';
 import configEnv from './config/environment';
 import router from './routers';
+import 'express-async-errors';
 
 const { port } = configEnv;
 
