@@ -1,0 +1,202 @@
+[
+  {
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769174"
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084"
+  },
+  {
+    "name": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935"
+  },
+  {
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518"
+  },
+  {
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565"
+  },
+  {
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "isbn": "9780060850524"
+  },
+  {
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780547928227"
+  },
+  {
+    "name": "Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780618346240"
+  },
+  {
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "isbn": "9781853260087"
+  },
+  {
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "9780061122415"
+  },
+  {
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "isbn": "9780307474278"
+  },
+  {
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "isbn": "9780590353427"
+  },
+  {
+    "name": "The Shining",
+    "author": "Stephen King",
+    "isbn": "9780385121675"
+  },
+  {
+    "name": "The Road",
+    "author": "Cormac McCarthy",
+    "isbn": "9780307265432"
+  },
+  {
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "isbn": "9780439023528"
+  },
+  {
+    "name": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "isbn": "9780307269751"
+  },
+  {
+    "name": "The Fault in Our Stars",
+    "author": "John Green",
+    "isbn": "9780525478812"
+  },
+  {
+    "name": "Gone Girl",
+    "author": "Gillian Flynn",
+    "isbn": "9780307588364"
+  },
+  {
+    "name": "The Help",
+    "author": "Kathryn Stockett",
+    "isbn": "9780425232200"
+  },
+  {
+    "name": "The Lord of the Flies",
+    "author": "William Golding",
+    "isbn": "9780140283334"
+  },
+  {
+    "name": "Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769532"
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120091"
+  },
+  {
+    "name": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935"
+  },
+  {
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518"
+  },
+  {
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565"
+  },
+  {
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "isbn": "9780060850524"
+  },
+  {
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780547928227"
+  },
+  {
+    "name": "Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780618346240"
+  },
+  {
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "isbn": "9781853260087"
+  },
+  {
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "9780061122415"
+  },
+  {
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "isbn": "9780307474278"
+  },
+  {
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "isbn": "9780590353427"
+  },
+  {
+    "name": "The Shining",
+    "author": "Stephen King",
+    "isbn": "9780385121675"
+  },
+  {
+    "name": "The Road",
+    "author": "Cormac McCarthy",
+    "isbn": "9780307265432"
+  },
+  {
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "isbn": "9780439023528"
+  },
+  {
+    "name": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "isbn": "9780307269751"
+  },
+  {
+    "name": "The Fault in Our Stars",
+    "author": "John Green",
+    "isbn": "9780525478812"
+  },
+  {
+    "name": "Gone Girl",
+    "author": "Gillian Flynn",
+    "isbn": "9780307588364"
+  },
+  {
+    "name": "The Help",
+    "author": "Kathryn Stockett",
+    "isbn": "9780425232200"
+  },
+  {
+    "name": "The Lord of the Flies",
+    "author": "William Golding",
+    "isbn": "9780140283334"
+  }
+]
